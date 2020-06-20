@@ -643,7 +643,7 @@ app.layout = html.Div([
         ], className='grid-container-onethird-twothirds-cols'),
     html.Div(
         [html.Div([
-            html.H6('Chart Of The Total Recorded Rases'),
+            html.H6('Chart Of The Total Recorded Cases'),
             html.Div([
                 dcc.Graph(
                 id='treemap',
