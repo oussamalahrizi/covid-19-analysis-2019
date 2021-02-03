@@ -1,4 +1,4 @@
 dash
-fprophet
+fbprophet
 pandas
 plotly
